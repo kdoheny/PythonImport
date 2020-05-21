@@ -127,7 +127,7 @@ with open('/home/bella/PycharmProjects/Python-ReadingAndWritingTextFiles/Reading
         num = int(number) # we have to convert the string number, into an integer number
         if 90000 <= num <= 99999:
             line_list.append(line.rstrip('\n')) # strip off new line while adding to list
-
+s
 # the above code is returning an error, because we cannot convert '2L' into an integer, it contains a letter
 with open('/home/bella/PycharmProjects/Python-ReadingAndWritingTextFiles/ReadingText/snptable.txt') as f:
     line_list = list()  # creating empty list to store processed lines

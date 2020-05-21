@@ -1,0 +1,6 @@
+Animal Class	ExampleMollusc	OctopusMammal	LionBird	NuthatchReptile	Iguanahere	is
+more	data
+you	want
+to	add
+to	a
+text	file

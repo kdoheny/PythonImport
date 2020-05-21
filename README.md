@@ -13,10 +13,24 @@ because it's not always possible to find an adequate solution to your data probl
 
 1. **ReadingText** Folder
 
-Contains 3 different text files, 2 have .asc extensions, but those are still text files.
-Also contains 2 python scripts.
- * 'read_text.py' has various examples of reading in text from a file and manipulating it.
- * 'read_multiple_text_simultaneously.py' demonstrates a useful ability to read in two files at the same time, and manipulate them.
+    Contains 3 different text files, 2 have .asc extensions, but those are still text files.
+    Also contains 2 python scripts.
+    * 'read_text.py' has various examples of reading in text from a file and manipulating it.
+    * 'read_multiple_text_simultaneously.py' demonstrates a useful ability to read in two files at the same time, and manipulate them.
+ 
+2. **WritingText** Folder
+
+    Contains python script 'write_text.py'
+    * 'write_text.py' writing information out to a text file, demonstrating creating new text files, and appending to
+    existing text files.  The text file textout1.txt is created while running the script.
+    
+3. **SubsetText** Folder
+
+    A folder to contain user defined functions, to subset a text file in specific ways.
+    * 'random_row_subset.py' defines a function, which given a text file, and a user specified number of rows, will
+    randomly sample that number of rows from the file ( without replacement ), and create a new text file, which 
+    is the random sample of rows.
+ 
 
 
 
