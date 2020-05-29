@@ -30,6 +30,7 @@ because it's not always possible to find an adequate solution to your data probl
     * 'random_row_subset.py' defines a function, which given a text file, and a user specified number of rows, will
     randomly sample that number of rows from the file ( without replacement ), and create a new text file, which 
     is the random sample of rows.
+    * 'transpose_data.py' defines functions which you can use to make the columns of a dataframe the rows, and vice versa
  
 
 
