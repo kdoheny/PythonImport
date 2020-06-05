@@ -31,6 +31,14 @@ because it's not always possible to find an adequate solution to your data probl
     randomly sample that number of rows from the file ( without replacement ), and create a new text file, which 
     is the random sample of rows.
     * 'transpose_data.py' defines functions which you can use to make the columns of a dataframe the rows, and vice versa
+    * 'string_subsetter.py' trying to make a versatile function/module for sub-setting text files, given some string,
+    setup to handle header or no header, and different delimiters
+    
+4. **FileComparison** Folder
+   
+    A folder to contain user defined functions which somehow compare text files.
+    * 'file_differences.py', given two text files, this will create a new text file, showing the lines
+    which differ between the two text files
  
 
 
